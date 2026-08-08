@@ -13,3 +13,6 @@ A CNN-based Python project that recognizes handwritten digits (0–9) using the 
 - Matplotlib
 - TensorFlow
 - Keras
+
+## License
+MIT License
